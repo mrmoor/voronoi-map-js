@@ -21,7 +21,7 @@ npm install --save node-voronoi-map
 ```
 
 ```js
-var MapGenerator = require('voronoi-js-node');
+var MapGenerator = require('node-voronoi-map');
 var mapGenerator = new MapGenerator();
 var map = mapGenerator.generate();
 ```
